@@ -2,7 +2,7 @@
 
 https://claudiacastillo.github.io/roadTrip/
 
-Roam - Your Premiere Road Trip Itinerary
+Roam - Your Premiere Road Trip Itinerary.
 
 A Web app that interacts with Google Maps allowing the user to input their trip route and budget itinerary. The application uses API consumption to display food, lodging, and activity options available enroute and within budget, from which the user may select.
 
